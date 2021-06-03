@@ -1,0 +1,77 @@
+# Blender MTL File: 'ModelRenderLighting2.blend'
+# Material Count: 5
+
+newmtl 38_+Mask.Mask_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.785432 0.725453 0.698610
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Elder Kraken,Evolve\EKBody_D.jpg
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_N.jpg
+map_Ke D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_E.jpg
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_S.jpg
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_D.jpg
+
+newmtl 38_+MaskEye.MaskEye_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.731364 0.725802 0.437159
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Elder Kraken,Evolve\EKBody_D.jpg
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_N.jpg
+map_Ke D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_E.jpg
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_S.jpg
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_D.jpg
+
+newmtl 38_Body_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.601068 0.701785 0.751635
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Elder Kraken,Evolve\EKBody_D.jpg
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_N.jpg
+map_Ke D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_E.jpg
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_S.jpg
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_D.jpg
+
+newmtl 38_Eyes_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.590613 0.420762 0.435035
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Elder Kraken,Evolve\EKBody_D.jpg
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_N.jpg
+map_Ke D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_E.jpg
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_S.jpg
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKBody_D.jpg
+
+newmtl 38_Parts_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.753833 0.675883 0.513061
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Elder Kraken,Evolve\EKParts_D.jpg
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKParts_N.jpg
+map_Ke D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKParts_E.jpg
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKParts_S.jpg
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elder Kraken,Evolve\\EKParts_D.jpg

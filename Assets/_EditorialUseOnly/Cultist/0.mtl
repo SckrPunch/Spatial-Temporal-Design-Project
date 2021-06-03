@@ -1,0 +1,58 @@
+# Blender MTL File: 'MRL-279.blend'
+# Material Count: 4
+
+newmtl 24_mesh1_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.641972 0.573124 0.758607
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Tentacled Cultist,The Call of Cthulhu\GenericCultist_Mask_01_DFF.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\GenericCultist_Mask_01_NRM.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\GenericCultist_Mask_01_spec.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\GenericCultist_Mask_01_DFF.png
+
+newmtl 24_mesh2_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.400170 0.737714 0.549229
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Tentacled Cultist,The Call of Cthulhu\TentacledCultist_Hand_DFF.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\TentacledCultist_Hand_NRM.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\TentacledCultist_Hand_s.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\TentacledCultist_Hand_DFF.png
+
+newmtl 24_mesh3_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.658796 0.504725 0.658670
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Tentacled Cultist,The Call of Cthulhu\Cthulhu_Logo_000_ALB.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\Cthulhu_Logo_000_NRM.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\Cthulhu_Logo_000_s.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\Cthulhu_Logo_000_ALB.png
+
+newmtl 25_mesh0_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.787120 0.566240 0.429417
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Tentacled Cultist,The Call of Cthulhu\TentacledCultist_Cloth_DFF.png
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\TentacledCultist_Cloth_n.png
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\TentacledCultist_Cloth_s.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Tentacled Cultist,The Call of Cthulhu\\TentacledCultist_Cloth_DFF.png

@@ -1,0 +1,5 @@
+The files within this subfolder are copyrighted material used for Editorial Use only, such as for Education. In a real development setting, we would use assets created in-house or contracted to outside artists rather than pull from existing media.
+
+Game Rips:
+- Tentacled Cultist from The Call of Cthulu
+- Elder Kraken from Evolve
